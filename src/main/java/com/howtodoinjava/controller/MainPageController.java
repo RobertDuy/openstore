@@ -50,7 +50,7 @@ public class MainPageController {
 		sb.append(email);
 		sb.append(" Wanna contact you. Here is content: ");
 		sb.append(content);
-		MailerUtils.Send("henrycuongduy@gmail.com", "", subject, sb.toString());
+		MailerUtils.Send("david@dp-global.vn", "", subject, sb.toString());
 		return "";
 	}
 }
