@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.howtodoinjava.app</groupId>
-	<artifactId>Spring3HibernateIntegration</artifactId>
+	<artifactId>ROOT</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>Spring3HibernateIntegration Maven Webapp</name>
@@ -274,7 +274,7 @@
 	    </dependency>
 	</dependencies>
 	<build>
-		<finalName>Spring3HibernateIntegration</finalName>
+		<finalName>ROOT</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.mortbay.jetty</groupId>
